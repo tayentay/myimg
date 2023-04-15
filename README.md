@@ -1,1 +1,1 @@
-<br><br><br>This is my image space.
+This is my image space.
